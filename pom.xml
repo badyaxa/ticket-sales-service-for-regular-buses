@@ -6,6 +6,7 @@
 
 	<modules>
 		<module>payment-system</module>
+		<module>ticket-management-system</module>
 	</modules>
 
 	<parent>
