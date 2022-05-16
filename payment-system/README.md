@@ -2,9 +2,9 @@
 
 # Spring-boot with OpenAPI.
 
-- [Welcome page localhost  :80](http://127.0.0.1:80/).
-- [ticket-management-system  :8080](http://127.0.0.1:8080/).
-- [payment-system  :8081](http://127.0.0.1:8081/).
+- [Welcome page localhost  :8080](http://127.0.0.1:8080/).
+- [ticket-management-system  :8088](http://127.0.0.1:8088/).
+- [payment-system  :8099](http://127.0.0.1:8099/).
 
 
 ## Система оплаты
