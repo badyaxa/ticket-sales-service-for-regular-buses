@@ -13,7 +13,7 @@ public class TicketSalesServiceForRegularBusesApplication {
 
         applicationContext = SpringApplication.run(TicketSalesServiceForRegularBusesApplication.class, args);
         System.out.println("------------------------start---------------------------");
-		displayAllBeans();
+//		displayAllBeans();
 		System.out.println("------------------------end---------------------------");
 	}
 
